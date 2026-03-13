@@ -2,24 +2,26 @@
 
 #List IPTV cơ bản của ONNA Online, tất cả các kênh truyền hình trong List IPTV này được tổng hợp lại từ các nguồn bên thứ ba được chia sẻ trên mạng, list cam kết 100% không thu phí người xem
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv1.png", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/VTV1_01-11-2022.png/revision/latest?cb=20250106012037&path-prefix=vi", VTV1
 https://wowza.danet.vn/live/vtv1/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv2.png", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV2_21.11.2024-nay.png/revision/latest?cb=20250110115127&path-prefix=vi", VTV2
 https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv3.png", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/VTV3_27-07-2024.png/revision/latest?cb=20241218111118&path-prefix=vi", VTV3
 https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv4.png", VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/VTV4_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20240807084033&path-prefix=vi", VTV4
 https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv5.png", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTV5_31.07.2024-nay.png/revision/latest?cb=20251006040116&path-prefix=vi", VTV5
 https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtvcantho.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/VTV_C%E1%BA%A7n_Th%C6%A1_logo_%282022-nay%29.png/revision/latest?cb=20221009182058&path-prefix=vi", VTV Cần Thơ
 https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv7.png", VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV7_2020%3B_2022-2023%3B_12.06.2025-nay.png/revision/latest?cb=20250626081147&path-prefix=vi", VTV7
 https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv8.png", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/VTV8_2024.png/revision/latest?cb=20250906033746&path-prefix=vi", VTV8
 https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vtv9.png", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/VTV9_logo_2021_%28s%E1%BB%AD_d%E1%BB%A5ng_cho_ti%E1%BA%BFp_s%C3%B3ng%29.png/revision/latest?cb=20251201140940&path-prefix=vi", VTV9
 https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/VTV10_logo_ver3.png/revision/latest?cb=20260204052948", VTV10
+https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vietnamtoday.png", Vietnam Today
 https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/antv.png", ANTV
