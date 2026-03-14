@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
 #List IPTV cơ bản của ONNA Online, tất cả các kênh truyền hình trong List IPTV này được tổng hợp lại từ các nguồn bên thứ ba được chia sẻ trên mạng, list cam kết 100% không thu phí người xem
 
