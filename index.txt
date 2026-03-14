@@ -22,35 +22,35 @@ https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
 https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/VTV10_logo_ver3.png/revision/latest?cb=20260204052948", VTV10
 https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/index.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vietnamtoday.png", Vietnam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/Vietnam_Today_07-2025_v2.png/revision/latest?cb=20250808040831&path-prefix=vi", Vietnam Today
 https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/antv.png", ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ANTV_logo_2024.png/revision/latest?cb=20240921100302&path-prefix=vi", ANTV
 https://wowza.danet.vn/live/antv/chunklist_w1998701349.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/qpvn.png", QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/QPVN_logo_2014_2.png/revision/latest?cb=20220827101546&path-prefix=vi", QPVN
 https://wowza.danet.vn/live/quocphong/playlist.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htv1.png", HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest?cb=20260201034744&path-prefix=vi", HTV1
 https://onnanetwork.xyz/hanoiiptv.short.gy/HaNoiIPTV-HTV1/?/index.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htv2.png", HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/HTV2_Vie_Channel_logo_2025.png/revision/latest?cb=20250203040711&path-prefix=vi", HTV2
 https://liveh12.vtvprime.vn/hls/HTV2/index.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htv3.png", HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTV3_31-12-2024.png/revision/latest?cb=20260202061708&path-prefix=vi", HTV3
 https://liveh12.vtvprime.vn/hls/HTV3/index.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htvkey.png", HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260228033848&path-prefix=vi", HTV4
 https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htv7.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest?cb=20260115081301&path-prefix=vi", HTV7
 https://liveh12.vtvprime.vn/hls/HTV7HD/03.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htv9.png", HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/HTV9_31-12-2024.png/revision/latest?cb=20260102131523&path-prefix=vi", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/htvthethao.png", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest?cb=20250507023141&path-prefix=vi", HTV Thể Thao
 https://liveh34.vtvprime.vn/hls/VUNGTAUTV/03.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thvl1.png", THVL1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/THVL1_logo_2026.png/revision/latest?cb=20260218075352&path-prefix=vi", THVL1
 https://liveh12.vtvprime.vn/hls/VINHLONG1/03.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thvl2.png", THVL2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/THVL2_logo_2026.png/revision/latest?cb=20260218075532&path-prefix=vi", THVL2
 https://liveh12.vtvprime.vn/hls/VINHLONG2/03.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thvl3.png", THVL3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/THVL3_logo_2026.png/revision/latest?cb=20260218075645&path-prefix=vi", THVL3
 https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thvl4.png", THVL4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/THVL4_logo_2026.png/revision/latest?cb=20260220135349&path-prefix=vi", THVL4
 https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thvl5.png", THVL5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260224023722&path-prefix=vi", THVL5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="hanoi1" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/hanoitv1.png", Hà Nội 1
 https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
@@ -72,33 +72,33 @@ https://live.canthotv.vn/live/tv/playlist.m3u8
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thtpct3.png", Cần Thơ 3
 https://live.canthotv.vn/live/cs3/playlist.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/dnnrtv1.png", Đồng Nai 1
+#EXTINF:-1 tvg-id="dongnai1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi", Đồng Nai 1
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/dnnrtv2.png", Đồng Nai 2
+#EXTINF:-1 tvg-id="dongnai2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest?cb=20250902053524&path-prefix=vi", Đồng Nai 2
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/ttv1.png", Tây Ninh 1
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="tayninh2" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/ttv2.png", Tây Ninh 2
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="angiang1" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/atv1.png", An Giang 1
+#EXTINF:-1 tvg-id="angiang1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ATV1_logo.png/revision/latest?cb=20250630094514&path-prefix=vi", An Giang 1
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="angiang2" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/atv2.png", An Giang 2
+#EXTINF:-1 tvg-id="angiang2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/ATV2_logo.png/revision/latest?cb=20251109112107&path-prefix=vi", An Giang 2
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-#EXTINF:-1 tvg-id="angiang3" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/atv3.png", An Giang 3
+#EXTINF:-1 tvg-id="angiang3" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/ATV3_logo.png/revision/latest?cb=20250630094742&path-prefix=vi", An Giang 3
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV1_QuangNgai.png", QNgTV1
+#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV1_QuangNgai.png", Quảng Ngãi 1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", QNgTV2
+#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", Quảng Ngãi 2
 https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/bacninhtv.png", Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest?cb=20251214065005&path-prefix=vi", Bắc Ninh
 https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/camautv.png", Cà Mau
-https://onnanetwork.xyz/tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="dienbien" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/dienbien.png", Điện Biên
+#EXTINF:-1 tvg-id="camau" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest?cb=20251208130014&path-prefix=vi", Cà Mau
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="dienbien" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/%C4%90TV_logo_2021.png/revision/latest?cb=20230209110350&path-prefix=vi", Điện Biên
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
-#EXTINF:-1 tvg-id="daklak" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/daklak.png", Đắk Lắk
+#EXTINF:-1 tvg-id="daklak" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/DRT_logo_testcard_2025.png/revision/latest?cb=20250815051535&path-prefix=vi", Đắk Lắk
 https://onnanetwork.xyz/live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="Truyền Hình" tvg-logo="https://onnaonlinetv.xyz/thumbnail/thanhhoa.png", Thanh Hoá
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/Logo_TTV_Thanh_H%C3%B3a_2017_%28B%E1%BA%A3n_1%29.png/revision/latest?cb=20220209145305&path-prefix=vi", Thanh Hoá
 https://liveh12.vtvprime.vn/hls/THANHHOATV/index.m3u8
 
 #EXTINF:-1 tvg-id="vov1" group-title="Phát Thanh" tvg-logo="https://onnaonlinetv.xyz/thumbnail/vov1.png", VOV1
