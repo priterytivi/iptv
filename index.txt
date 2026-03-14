@@ -1,0 +1,178 @@
+#EXTM3U x-tvg-url="https://vnepg.site/epg.xml"
+
+#List IPTV cơ bản của ONNA Online, tất cả các kênh truyền hình trong List IPTV này được tổng hợp lại từ các nguồn bên thứ ba được chia sẻ trên mạng, list cam kết 100% không thu phí người xem
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/VTV1_01-11-2022.png/revision/latest?cb=20250106012037&path-prefix=vi", VTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://wowza.danet.vn/live/vtv1/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV2_21.11.2024-nay.png/revision/latest?cb=20250110115127&path-prefix=vi", VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/VTV3_27-07-2024.png/revision/latest?cb=20241218111118&path-prefix=vi", VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/VTV4_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20240807084033&path-prefix=vi", VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTV5_31.07.2024-nay.png/revision/latest?cb=20251006040116&path-prefix=vi", VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/VTV_C%E1%BA%A7n_Th%C6%A1_logo_%282022-nay%29.png/revision/latest?cb=20221009182058&path-prefix=vi", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV7_2020%3B_2022-2023%3B_12.06.2025-nay.png/revision/latest?cb=20250626081147&path-prefix=vi", VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/VTV8_2024.png/revision/latest?cb=20250906033746&path-prefix=vi", VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/VTV9_logo_2021_%28s%E1%BB%AD_d%E1%BB%A5ng_cho_ti%E1%BA%BFp_s%C3%B3ng%29.png/revision/latest?cb=20251201140940&path-prefix=vi", VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/08/VTV10_logo_ver3.png/revision/latest?cb=20260204052948", VTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/Vietnam_Today_07-2025_v2.png/revision/latest?cb=20250808040831&path-prefix=vi", Vietnam Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ANTV_logo_2024.png/revision/latest?cb=20240921100302&path-prefix=vi", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://wowza.danet.vn/live/antv/chunklist_w1998701349.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/QPVN_logo_2014_2.png/revision/latest?cb=20220827101546&path-prefix=vi", QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://wowza.danet.vn/live/quocphong/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest?cb=20260201034744&path-prefix=vi", HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="htv2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/HTV2_Vie_Channel_logo_2025.png/revision/latest?cb=20250203040711&path-prefix=vi", HTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/HTV2/index.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTV3_31-12-2024.png/revision/latest?cb=20260202061708&path-prefix=vi", HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/HTV3/index.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HTV4_2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260228033848&path-prefix=vi", HTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
+#EXTINF:-1 tvg-id="htv5" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/HTV5_Bchannel_logo_ch%C3%ADnh.png/revision/latest?cb=20260221093813&path-prefix=vi", HTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1 tvg-id="htv7hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/HTV7_logo_ph%E1%BB%A5_12-02-2025.png/revision/latest?cb=20260115081301&path-prefix=vi", HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/HTV7HD/03.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/HTV9_31-12-2024.png/revision/latest?cb=20260102131523&path-prefix=vi", HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest?cb=20250507023141&path-prefix=vi", HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/THVL1_logo_2026.png/revision/latest?cb=20260218075352&path-prefix=vi", THVL1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/THVL2_logo_2026.png/revision/latest?cb=20260218075532&path-prefix=vi", THVL2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/THVL3_logo_2026.png/revision/latest?cb=20260218075645&path-prefix=vi", THVL3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/THVL4_logo_2026.png/revision/latest?cb=20260220135349&path-prefix=vi", THVL4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260224023722&path-prefix=vi", THVL5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="hanoi1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/HanoiTV1_HD_2024-2026.png/revision/latest?cb=20241231140707&path-prefix=vi", Hà Nội 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/HanoiTV2_HD_2024-2026.png/revision/latest?cb=20240410163436&path-prefix=vi", Hà Nội 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest?cb=20200831064620&path-prefix=vi", HiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 tvg-id="youtv" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/YouTV_2025.png/revision/latest?cb=20250219102446&path-prefix=vi", YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=31
+#EXTINF:-1 tvg-id="danang1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/DNRT1_logo_30.06-04.07.2025.png/revision/latest?cb=20250704001110&path-prefix=vi", Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/DNRT2_logo_30.06-04.07.2025.png/revision/latest?cb=20250704000953&path-prefix=vi", Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 tvg-id="cantho1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/C%E1%BA%A7nTh%C6%A11_logo_09-2025.png/revision/latest?cb=20251018045831&path-prefix=vi", Cần Thơ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.canthotv.vn/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cantho2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", Cần Thơ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:-1 tvg-id="cantho3" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/C%E1%BA%A7nTh%C6%A13_logo_09-2025.png/revision/latest?cb=20251018045834&path-prefix=vi", Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.canthotv.vn/cs3/tv/chunklist_w666161228.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi", Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest?cb=20250902053524&path-prefix=vi", Đồng Nai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="tayninh1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", Tây Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:-1 tvg-id="angiang1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ATV1_logo.png/revision/latest?cb=20250630094514&path-prefix=vi", An Giang 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="angiang2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/ATV2_logo.png/revision/latest?cb=20251109112107&path-prefix=vi", An Giang 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+#EXTINF:-1 tvg-id="angiang3" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/ATV3_logo.png/revision/latest?cb=20250630094742&path-prefix=vi", An Giang 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi", Quảng Ngãi 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", Quảng Ngãi 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest?cb=20251214065005&path-prefix=vi", Bắc Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
+#EXTINF:-1 tvg-id="camau" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest?cb=20251208130014&path-prefix=vi", Cà Mau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="dienbien" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/%C4%90TV_logo_2021.png/revision/latest?cb=20230209110350&path-prefix=vi", Điện Biên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:-1 tvg-id="daklak" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/DRT_logo_testcard_2025.png/revision/latest?cb=20250815051535&path-prefix=vi", Đắk Lắk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://onnanetwork.xyz/live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/Logo_TTV_Thanh_H%C3%B3a_2017_%28B%E1%BA%A3n_1%29.png/revision/latest?cb=20220209145305&path-prefix=vi", Thanh Hoá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/THANHHOATV/index.m3u8
+
+#EXTINF:-1 tvg-id="vov1" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w1111402987.m3u8
+#EXTINF:-1 tvg-id="vov2" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/VOV2_logo_2025.png/revision/latest?cb=20250618153643&path-prefix=vi", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w504296959.m3u8
+#EXTINF:-1 tvg-id="vov3" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest?cb=20220213141104&path-prefix=vi", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1783069155.m3u8
+#EXTINF:-1 tvg-id="vovgthn" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/VOV_GT_Hanoi.webp/revision/latest?cb=20210927101540&path-prefix=vi", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 tvg-id="vovgthcm" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VOV_GT_Ho_Chi_Minh.webp/revision/latest?cb=20210927101547&path-prefix=vi", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 tvg-id="vovgtmekong" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest?cb=20210927101634&path-prefix=vi", VOV Giao Thông Mekong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest?cb=20250608084021&path-prefix=vi", VOV Giao Thông Duyên Hải
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
+#EXTINF:-1 tvg-id="voh956" group-title="Phát Thanh" tvg-logo="https://onnaonlinetv.xyz/thumbnail/voh_95mhz.png", VOH 95,6 Mhz
+https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
+#EXTINF:-1 tvg-id="voh999" group-title="Phát Thanh" tvg-logo="https://onnaonlinetv.xyz/thumbnail/voh_99mhz.png", VOH 99,9 Mhz
+https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
+#EXTINF:-1 tvg-id="voh610" group-title="Phát Thanh" tvg-logo="https://onnaonlinetv.xyz/thumbnail/voh_am610mhz.png", VOH AM 610 Mhz
+https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
+#EXTINF:-1 tvg-id="hanoi90" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/Logo_FM90_K%C3%AAnh_Tin_T%E1%BB%A9c_v%C3%A0_Giao_Th%C3%B4ng_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171444&path-prefix=vi", Hanoi FM 90
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+#EXTINF:-1 tvg-id="hanoi96" group-title="Phát Thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/Logo_FM96_K%C3%AAnh_Tin_t%E1%BB%A9c_v%C3%A0_%C3%82m_nh%E1%BA%A1c_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20240119172701&path-prefix=vi", Hanoi FM 96 
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+
+#EXTINF:-1 tvg-id="takopi" group-title="Kho Phim Anime" tvg-logo="https://i.ibb.co/6RKNPZCt/MV5-BYm-Rk-N2-I1-OGEt-OWM3-Yi00-Nj-Vi-LWJj-MDkt-YTNm-ZTMx-Yj-Bi-NTU3-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg", Nguyên Tội Của Takopi - Tập 01 (Lồng Tiếng Việt)
+https://rumble.com/hls-vod/71meok/playlist.m3u8
+#EXTINF:-1 tvg-id="takopi" group-title="Kho Phim Anime" tvg-logo="https://i.ibb.co/6RKNPZCt/MV5-BYm-Rk-N2-I1-OGEt-OWM3-Yi00-Nj-Vi-LWJj-MDkt-YTNm-ZTMx-Yj-Bi-NTU3-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg", Nguyên Tội Của Takopi - Tập 02 (Lồng Tiếng Việt)
+https://rumble.com/hls-vod/725vdc/playlist.m3u8
