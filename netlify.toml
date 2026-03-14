@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/index.txt"
+  status = 200
+  force = true
