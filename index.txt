@@ -22,7 +22,7 @@ https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV7_2020%3B_2022-2023%3B_12.06.2025-nay.png/revision/latest?cb=20250626081147&path-prefix=vi", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/VTV8_2024.png/revision/latest?cb=20250906033746&path-prefix=vi", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
@@ -97,7 +97,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/DNRT2_logo_30.06-04.07.2025.png/revision/latest?cb=20250704000953&path-prefix=vi", Đà Nẵng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="cantho1" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/C%E1%BA%A7nTh%C6%A11_logo_09-2025.png/revision/latest?cb=20251018045831&path-prefix=vi", Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
 https://live.canthotv.vn/live/tv/playlist.m3u8
@@ -133,7 +133,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/BTV_Bac_Ninh_logo_04-07-2025_b%E1%BA%A3n_2.png/revision/latest?cb=20251214065005&path-prefix=vi", Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
-https://cmcdp2.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/index.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest?cb=20251208130014&path-prefix=vi", Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
@@ -142,7 +142,7 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="daklak" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/DRT_logo_testcard_2025.png/revision/latest?cb=20250815051535&path-prefix=vi", Đắk Lắk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
-https://onnanetwork.xyz/live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/Logo_TTV_Thanh_H%C3%B3a_2017_%28B%E1%BA%A3n_1%29.png/revision/latest?cb=20220209145305&path-prefix=vi", Thanh Hoá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/THANHHOATV/index.m3u8
