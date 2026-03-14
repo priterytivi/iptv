@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "/index.txt"
+  to = "/index.m3u"
   status = 200
   force = true
